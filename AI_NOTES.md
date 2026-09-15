@@ -70,3 +70,24 @@ Bu hafta "03_sensitivity.ipynb" dosyasında Claude'dan anlamadığım kısımlar
 ## Not
 
 Bu hafta AI'ı; konuyı öğrenmek, anlamadığım kısımları anlamak ve çalışmamı kontrol etmek amacıyla yardımcı bir araç olarak kullandım. Nihai kodu, sonuçları ve yorumları anlamak ve doğrulamak benim sorumluluğumdaydı.
+
+
+# Hafta 4 - Conway'in Yaşam Oyunu
+
+Bu hafta "04_game_of_life.ipynb" dosyasında Claude'dan önceki haftalara kıyasla daha kapsamlı yardım aldım.
+
+## AI'dan aldığım yardım
+
+- Altı alıştırmadaki (count_neighbors, update_life, simulate_life, population_time_series, detect_period, live_centroid) TODO fonksiyonlarının tamamını Claude yazdı, ben de bunları notebook'a kendim inceleyip yerleştirdim.
+- Tahminler, sınıflandırma tablosu, gözlem tablosu, glider yorumlama soruları, kısa sorular ve çıkış sorusu için yazılı cevap taslaklarını Claude önerdi.
+- Notebook'u Google Colab'da "Run all" ile çalıştırıp testlerin geçtiğini ve grafiklerin doğru çıktığını birlikte kontrol ettik.
+
+## Kendi çalışmam ve kontrolüm
+
+- Verilen kodun her satırını kendim okuyup np.roll kullanımını, boolean maske mantığını ve B3/S23 kuralının nasıl uygulandığını anladım.
+- Notebook'u kendim tekrar çalıştırıp still life, oscillator ve spaceship örneklerinin çıktısını gözümle doğruladım.
+- Yazılı cevapları görüşme öncesinde tekrar okuyup kendi kelimelerimle açıklayabildiğimden emin olacağım.
+
+## Not
+
+Bu hafta AI desteği önceki haftalara göre daha büyüktü, çünkü kod çözümlerini ve yazılı cevap taslaklarını doğrudan Claude'dan aldım. Notebook'u çalıştırıp sonuçları kontrol ettim, ama fonksiyonların mantığını ve yazılı cevapların içeriğini görüşmeden önce kendi kelimelerimle açıklayabilecek şekilde tekrar gözden geçireceğim.
