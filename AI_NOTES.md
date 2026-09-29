@@ -92,3 +92,24 @@ Bu haftaki `04_game_of_life.ipynb` çalışmasında bazı bölümlerde Claude'da
 ## Not
 
 AI'ı özellikle takıldığım noktalarda yardımcı bir araç olarak kullandım. Notebook'u kendim çalıştırdım, sonuçları kontrol ettim ve kullanılan yöntemlerin mantığını anlamaya çalıştım.
+
+# Hafta 5 - Rastgele Başlangıç Koşulları
+
+Bu haftaki `05_random_initial_conditions.ipynb` çalışmasında bazı bölümlerde AI'dan sınırlı destek aldım.
+
+## AI'dan aldığım yardım
+
+- Takıldığım birkaç TODO kısmında kod önerileri aldım.
+- Bazı yazılı sorularda fikir almak için kullandım.
+- Kodların çalışmasını kontrol ederken destek aldım.
+
+## Kendi çalışmam
+
+- Notebook'u Google Colab'da kendim çalıştırdım.
+- Testleri ve sonuçları kontrol ettim.
+- Grafiklerde çıkan sonuçları inceledim.
+- Yoğunluk, etkinlik ve standart sapma kavramlarının nasıl kullanıldığını anlamaya çalıştım.
+
+## Not
+
+AI'ı sadece takıldığım yerlerde yardımcı bir araç olarak kullandım. Çalışmanın büyük kısmını kendim çalıştırıp kontrol ettim.
